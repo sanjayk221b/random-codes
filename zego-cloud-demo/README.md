@@ -1,1 +1,1 @@
-# ZEGO CLOUD DEMO
+# Demo to test out zego cloud integration in react applications
